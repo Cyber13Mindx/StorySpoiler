@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Story Spoiler", "Story Spoiler\Story Spoiler.csproj", "{7EC65740-7DB1-CE02-2FB1-E7484FF222D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorySpoiler", "StorySpoiler\StorySpoiler.csproj", "{7EC65740-7DB1-CE02-2FB1-E7484FF222D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
